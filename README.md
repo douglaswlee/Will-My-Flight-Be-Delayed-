@@ -19,6 +19,6 @@ The files contained in this repo (and more specifically, the basic workflow for 
 
 5. Read in and prepare weather data (manually collected), and then merge with flight schedule data prepared in **AOTP_Read.ipynb** using the notebook **AddWXData.ipynb**.
 
-6. Put together and prepare all data for modeling using **FinalDataCompiltaion.ipynb**.
+6. Put together and prepare all data for modeling using **Final_Data_Compiltaion.ipynb**.
 
 7. Build, evaluate and select classification models using the notebook **All_Data_All_Models.ipynb**. 
